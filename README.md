@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1024" height="1024" alt="WhatsApp Image 2026-04-16 at 18 52 18" src="https://github.com/user-attachments/assets/278e22af-ed8c-4b81-9147-a21e1fe5978f" />
+<img width="1024" height="1024" alt="WhatsApp Image 2026-04-16 at 18 45 01" src="https://github.com/user-attachments/assets/8599860a-8c6d-4264-8914-f915686a24c9" />
 
 ### *Super Academic Search Engine | Pencarian Jurnal Ilmiah Seperti Google*
 
@@ -17,6 +17,8 @@
 [![Support](https://img.shields.io/badge/💬-Community_Support-green.svg)](#support)
 
 </div>
+
+<img width="1399" height="795" alt="Screenshot 2026-04-16 184949" src="https://github.com/user-attachments/assets/45b0c4da-74b2-48da-9517-126534f2b9c3" />
 
 ---
 
